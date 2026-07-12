@@ -16,6 +16,7 @@ My LeetCode solutions in C++, documenting my Data Structures and Algorithms prac
 | ------- |
 | [0007-reverse-integer](https://github.com/abhik0255/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/abhik0255/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhik0255/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
