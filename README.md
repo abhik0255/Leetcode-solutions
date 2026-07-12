@@ -7,6 +7,7 @@ My LeetCode solutions in C++, documenting my Data Structures and Algorithms prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhik0255/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/abhik0255/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ My LeetCode solutions in C++, documenting my Data Structures and Algorithms prac
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abhik0255/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhik0255/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhik0255/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
