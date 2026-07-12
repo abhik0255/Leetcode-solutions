@@ -11,4 +11,16 @@ My LeetCode solutions in C++, documenting my Data Structures and Algorithms prac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhik0255/Leetcode-solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhik0255/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhik0255/Leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhik0255/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
