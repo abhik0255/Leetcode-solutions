@@ -9,6 +9,7 @@ My LeetCode solutions in C++, documenting my Data Structures and Algorithms prac
 | [0001-two-sum](https://github.com/abhik0255/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/abhik0255/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/abhik0255/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhik0255/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,5 @@ My LeetCode solutions in C++, documenting my Data Structures and Algorithms prac
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhik0255/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhik0255/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
